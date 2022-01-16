@@ -5,43 +5,52 @@ class Translation(object):
 
 
     START_TEXT = """
-Hey {} 
+𝗛𝗘𝗟𝗟𝗢 {} 
 
-I am Telegram Most Powerful Media Encoder Bot
+𝗜 𝗔𝗠 𝗧𝗚 𝗠𝗢𝗦𝗧 𝗣𝗢𝗪𝗘𝗥 𝗙𝗨𝗟𝗟 𝗠𝗘𝗗𝗜𝗔 𝗘𝗡𝗖𝗢𝗗𝗘𝗥 / 𝗩𝗜𝗗𝗘𝗢 𝗘𝗡𝗖𝗢𝗗𝗘𝗥 𝗕𝗢𝗧 
 
-I can Encode Any Video or File in Negligible Quality
+𝗧𝗬𝗣𝗘 : /help 𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦 𝗕𝗢𝗧
 
-Use Help Command to Know How to Use me
-
-Made With 💕 By @Tellybots_4u
+𝗕𝗢𝗧 𝗠𝗔𝗜𝗡𝗧𝗔𝗜𝗡/𝗠𝗔𝗗𝗘 𝗕𝗬 : @KOT_BOTS | @KOT_FREE_DE_LA_HOYA_OFF | @KOT_REPORS
 """
     HELP_TEXT = """
-Recommended
-➠ Just Send Me Media To Get Started
+Hᴏᴡ Tᴏ Usᴇ M ᴇʜ 
 
-Delete Thumbnail
-➠ Send /dthumb To Delete Thumbnail
+➠ Jᴜsᴛ Sᴇɴᴅ Mᴇʜ Mᴇᴅɪᴀ Tᴏ Gᴇᴛ Sᴛᴀʀᴛᴇᴅ 
 
-Set Thumbnail
-➠ Reply To Photo With /sthumb To Save Thumbnail
+➠ Tᴏ Dᴇʟᴇᴛᴇ Tʜᴜᴍʙɴᴀɪʟ Tʏᴘᴇ : /dthumb 
 
-Settings
-➠ Use /settings Command To Check Settings
+➠ Tᴏ Sᴇᴛ ᴀ Tʜᴜᴍʙɴᴀɪʟ Tʏᴘᴇ : /sthumb 
 
-Made With 💕 By @Tellybots_4u
+➠ Usᴇ /settings Cᴏᴍᴍᴇɴᴛ Tᴏ Cʜᴇᴄᴋ Yᴏᴜʀ Sᴇᴛᴛɪɴɢs
+
+➠ ɪ Cᴀɴ Eɴᴄᴏᴅᴇ Aɴʏ Vɪᴅᴇᴏ Oʀ Fɪʟᴇ Iɴ Nᴇɢʟɪɢɪʙʟᴇ Qᴜᴀʟɪᴛʏ
+
+𝗕𝗢𝗧 𝗠𝗔𝗜𝗡𝗧𝗔𝗜𝗡/𝗠𝗔𝗗𝗘 𝗕𝗬 : @KOT_BOTS | @KOT_FREE_DE_LA_HOYA_OFF | @KOT_REPORS
 """
     ABOUT_TEXT = """
-🤖 My Name : Media-Encoder-Bot\n
-🚦 Version : <a href='https://telegram.me/tellybots_4u'>2.0</a>\n
-💫 Source Code : <a href='https://t.me/tellybots_digital'>Click Here</a>\n
-🗃️ Library : <a href='https://pyrogram.org'>Click Here</a>\n
-👲 Developer : <a href='https://telegram.me/tellybots_4u'>TellyBots_4u</a>\n
-📦 Last Updated : <a href='https://telegram.me/tellybots_4u'>[ 15-Dec-21 ] 15:00 PM</a>"""
+╭──────[@KOT_BOTS]───────〄
+│
+├ Nᴀᴍᴇ : <a href='https://t.me/KOT_VIDEO_ENCODING_BOT'>Vɪᴅᴇᴏ Eɴᴄᴏᴅɪɴɢ Bᴏᴛ</a>
+│
+├ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>Hᴇʀᴏᴋᴜ</a>
+│ 
+├ Lᴀɴɢᴜᴀɢᴇ : <a href='https://docs.pyrogram.org/'>Pʏᴛʜᴏɴ 3.9.6</a>
+│
+├ Vᴇʀꜱɪᴏɴ : <a href='https://t.me/KOT_VIDEO_ENCODING_BOT'>1.0 Bᴇᴛᴀ</a>
+│
+├ Fʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ 1.2.9</a>
+│
+├ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'>✯°• Kᴏᴛ Fʀᴇᴇ Dᴇ Lᴀ Hᴏʏᴀ Oғғ °•✯ | ✪ Bᴏᴛs CʀᴇᴀᴛᴏR ✪</a>
+│
+├ Pᴏᴡᴇʀᴇᴅ Bʏ : <a href='https://t.me/KOT_LINKS_TEAM'>Kᴏᴛ Lɪɴᴋs Tᴇᴀᴍ</a>
+│
+├ Uᴘᴅᴀᴛᴇᴅ Oɴ : [ 17.1.2022 ] 08:00 AM"""
 
     START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('🤖 Update Channel', url='https://telegram.me/tellybots_4u'),
-        InlineKeyboardButton('💬 Support Group', url='https://telegram.me/tellybots_support')
+        InlineKeyboardButton('🤖 Update Channel', url='https://telegram.me/KOT_BOTS'),
+        InlineKeyboardButton('💬 Support Group', url='https://telegram.me/KOT_REPORS')
         ],[
         InlineKeyboardButton('❔ Help', callback_data='help'),
         InlineKeyboardButton('⛔ Close', callback_data='close')
