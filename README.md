@@ -56,7 +56,7 @@ bash run.sh
 #### Deploy on Heroku
 
 <p align="">
-    <a href="https://heroku.com/deploy?template=https://github.com/Tellybots/The-Encoder-Bot">
+    <a href="https://heroku.com/deploy?template=https://github.com/KOTDEOMOREPOS/The-Encoder-Bot">
     <img src="https://github.com/nikhileashy/justfor_testing/blob/main/herokudeploy-01-cropped.svg" alt="herokudeploy-01" border="0" height="100" width="240"></a>
 </p>
 
